@@ -25,13 +25,13 @@ function Home() {
         Mostafa Elmowafy
       </h1>
       <h3 className=" font-semibold text-lg bg-gradient-to-r from-primary to-pragraph bg-clip-text text-transparent">
-        Front-End Developer (React.js)
+        Front-End Developer (Next.js | React.js)
       </h3>
       <p className=" max-w-2xl text-center text-pragraph dark:text-darksecondaryheader my-3 p-5">
         Front-End Developer skilled in building responsive and scalable web
-        applications using React.js. Experienced in advanced state management
-        including Redux, React Query, and advanced design patterns for flexible
-        architecture.
+        applications using Next.js & React.js. Experienced in advanced state
+        management including Redux, React Query, and advanced design patterns
+        for flexible architecture.
       </p>
     </div>
   );

@@ -23,9 +23,9 @@ function About() {
       <div className=" text-pragraph dark:text-darksecondaryheader max-w-2xl p-6 mx-auto mt-4">
         <p className=" mb-4">
           Hi there! I'm Mostafa Elmowafy, a Front-End Developer specializing in
-          React.js. I enjoy building responsive and scalable web applications
-          with modern technologies like{" "}
-          <b> React.js, Tailwind CSS, and Supabase</b>.
+          Next.js & React.js. I enjoy building responsive and scalable web
+          applications with modern technologies like{" "}
+          <b> Next.js React.js, Tailwind CSS, and Supabase</b>.
         </p>
         <p className=" mb-4">
           During my journey, I’ve worked on projects ranging from{" "}
@@ -43,7 +43,7 @@ function About() {
       </div>
       <div className="mt-3 mb-1 flex justify-center">
         <a
-          href="https://drive.google.com/uc?export=download&id=1lQ-AqIpfPvkNffO8XGtmo6ise9m8fxIv"
+          href="https://drive.google.com/file/d/1FE0xY_HpwlaqvktghsyHPh_337LAOown/view?usp=sharing"
           className=" px-4 py-2 mb-2 border rounded-full border-secondaryheader dark:border-gray-600 hover:bg-icon dark:hover:bg-gray-700 duration-300"
           download
         >

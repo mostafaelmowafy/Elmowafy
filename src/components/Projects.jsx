@@ -3,6 +3,14 @@ import Reveal from "./Reveal";
 function Projects() {
   const projects = [
     {
+      title: "The Wild Osis - for Users",
+      description:
+        "A hotel booking website for users to explore and book cabins, with authentication. Built with Next.js and Supabase. The platform also includes a personal profile page where users can view and edit their information, and a section to manage and track their reservations.",
+      image: "/images/The-Wild-Oasis-User.jpeg",
+      tech: ["Next.js", "Tailwind CSS", "Supabase", "Vercel"],
+      link: "https://the-wild-oasis-user-jet.vercel.app/",
+    },
+    {
       title: "ShopiWafy E-commerce",
       description:
         "A responsive e-commerce platform where users can browse and place orders, with admin dashboard to manage orders, update their status, and view all users. Built with React.js and Supabase, and real-time data updates.",
@@ -11,7 +19,7 @@ function Projects() {
       link: "https://shopiwafy.netlify.app/",
     },
     {
-      title: "The Wild Osis",
+      title: "The Wild Osis - Hotel Dashboard",
       description:
         "A hotel dashboard for managing bookings, cabins, and statistics (React, Supabase). Built for desktop use only, with Dark Mode, authentication, sorting, and reusable component patterns.",
 
@@ -42,7 +50,7 @@ function Projects() {
       link: "https://mostafaelmowafy.github.io/HooBank/",
     },
     {
-      title: "Portfolio Website",
+      title: "Old - Portfolio Website",
       description: " Old personal site with contact and projects Info & Links.",
       image: "/images/portfolio.jpeg",
       tech: ["HTML", "CSS", "JavaScript", "GitHub Pages"],
