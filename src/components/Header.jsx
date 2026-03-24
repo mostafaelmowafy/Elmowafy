@@ -67,7 +67,7 @@ function Header() {
       </nav>
       <div className="mt-3 mb-1 justify-center md:flex hidden">
         <a
-          href="https://drive.google.com/file/d/1FE0xY_HpwlaqvktghsyHPh_337LAOown/view?usp=sharing"
+          href="https://drive.google.com/uc?export=download&id=1FE0xY_HpwlaqvktghsyHPh_337LAOown"
           className="text-sm px-3 py-1 mb-2 border border-secondaryheader dark:border-gray-600 rounded hover:bg-icon dark:hover:bg-gray-700 duration-300"
           download
         >

@@ -43,7 +43,7 @@ function About() {
       </div>
       <div className="mt-3 mb-1 flex justify-center">
         <a
-          href="https://drive.google.com/file/d/1FE0xY_HpwlaqvktghsyHPh_337LAOown/view?usp=sharing"
+          href="https://drive.google.com/uc?export=download&id=1FE0xY_HpwlaqvktghsyHPh_337LAOown"
           className=" px-4 py-2 mb-2 border rounded-full border-secondaryheader dark:border-gray-600 hover:bg-icon dark:hover:bg-gray-700 duration-300"
           download
         >
